@@ -2,6 +2,6 @@
 
 basic Swift App
 
-# Clone the App
+# CClone or download this repository
 git clone https://github.com/GalynaBenitsky/Dice_Roller.git
 
